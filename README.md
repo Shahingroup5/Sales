@@ -1,2 +1,2 @@
 # Sales
-Importing data _ Data Cleaning _ Add Coulms and delete null variables 
+Importing data _ Data Cleaning _ delete null variables 
